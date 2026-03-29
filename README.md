@@ -3,8 +3,8 @@
 A responsive and interactive quiz application built using React.js(jsx). Designed to demonstrate frontend skills and innovation. This is an interactive and user-friendly application for practising and just to have fun.
 
 
-# 🧑‍💻 Tech Stack
-     ⚛️ React.js (jsx) - Component basesd UI development
+## 🧑‍💻 Tech Stack
+    ⚛️ React.js (jsx) - Component basesd UI development
      🎨 Tailwind CSS - Stylind and responsive design
 
 ## 🚀 Highlights
