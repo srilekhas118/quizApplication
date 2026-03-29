@@ -5,8 +5,8 @@ A responsive and interactive quiz application built using React.js(jsx). Designe
 
 
 ## 🧑‍💻 Tech Stack
- -⚛️ React.js (jsx) - Component basesd UI development
- -🎨 Tailwind CSS - Stylind and responsive design
+ - ⚛️ React.js (jsx) - Component basesd UI development
+ - 🎨 Tailwind CSS - Stylind and responsive design
 
 ## 🚀 Highlights
  -✨ Multiple Choice Questions
